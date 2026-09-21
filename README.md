@@ -25,12 +25,13 @@ A simple automatic night lamp circuit constructed on a breadboard using an LDR, 
 6. Connect the positive and negative terminals of the 9V battery.  
 7. Expose the LDR to light and observe the LED.  
 8. Cover the LDR and check that the LED switches on automatically.
+### **WORKING**
 
-![][image1]
+![WORKING](working.jpg)
 
 ### **RESULT**
+![RESULT](result..jpg)
 
-![][image2]
 
 ### **Notes**
 
